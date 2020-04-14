@@ -1,0 +1,11 @@
+*{margin:0;padding:0;
+box-sizing: border-box;}
+
+main{
+	width: 50%; margin: 60px auto;
+	border: 2px solid gray;
+	display: grid;
+	grid-template-rows: 60px 200px;
+	box-shadow: 5px 5px grey;
+}
+.div1{background-color: orange;}
